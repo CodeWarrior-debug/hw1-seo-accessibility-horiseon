@@ -65,7 +65,7 @@ nav ul li {
 
 .servicedescription {
     margin-bottom: 20px;
-    padding: 50px;
+    padding: 20px;
     height: 300px;
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     background-color: #0072bb;
@@ -100,16 +100,6 @@ nav ul li {
 /* Benefits of Services Styling */
 
 .benefits {
-    /* margin-right: 20px;
-    padding: 20px;
-    clear: both;
-    float: right;
-    width: 20%;
-    height: 100%;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #2589bd;
-    margin-bottom: 32px;
-    color: #ffffff; */
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -120,33 +110,25 @@ nav ul li {
     background-color: #2589bd;
 }
 
-.benefits h3 {
-    margin-bottom: 10px;
-    text-align: center;
-}
-
-.benefits img {
-    max-height: 200px;
-}
-
 article {
-    margin-bottom: 32px;  /* 20px; */
-    padding: 50px;
-    height: 300px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-color: #0072bb;
-    color: #ffffff;
     display: block;
 }
 
-.article img {
+.benefit-listed {
+    margin-bottom: 32px;
+    color: #ffffff;
+}
+
+.benefit-listed img {
     display: block;
     margin: 10px auto;
     max-width: 150px;
-    max-height: 200px;
 }
 
-/* Footer Styling */
+.benefit-listed h3 {
+    margin-bottom: 10px;
+    text-align: center;
+}
 
 footer {
     padding: 30px;
