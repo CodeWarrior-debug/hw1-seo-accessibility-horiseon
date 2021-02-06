@@ -14,7 +14,7 @@
 - ...And Many More...
 
 ## Contributing
->Thanks for the thought, but without the original instructions set and broken code (not included), this repo will not be convenient to use for anyone else trying to become proficient with CSS. :( And I'm onto bigger and better projects. :)
+>Thanks for the thought, but without the original instruction set and the broken code (not included), this repo will not make for a convenient learning opportunity for others trying to become proficient with CSS. :( Don't help me with this - I'm onto bigger and better projects. :)
 
 ## Links
 
